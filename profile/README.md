@@ -9,5 +9,5 @@ Opxkit Labs provides modular, production-ready kits to accelerate your cloud jou
 * **Automation:** End-to-end CI/CD pipeline integration.
 
 #### 🌐 Connect with us:
-- **Website:** [opxkit.io](https://opxkit.io)
-- **Support:** support@opxkit.io
+- **Website:** [opxkit.com](https://opxkit.com)
+- **Support:** hello@opxkit.com
