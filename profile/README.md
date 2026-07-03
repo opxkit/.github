@@ -1,4 +1,4 @@
-# Welcome to Opxkit Labs 🚀
+# Welcome to OpxKit 🚀
 
 ### Precision-Engineered DevOps Frameworks
 Opxkit Labs provides modular, production-ready kits to accelerate your cloud journey. 
